@@ -80,7 +80,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onRestoreInstanceState(@NonNull Bundle saveInstanceState){
         super.onRestoreInstanceState(saveInstanceState);
-        //DataContainer container = (DataContainer)saveInstanceState.getSerializable(counterDataKey);
 
         String text = saveInstanceState.getString(counterDataKey, "0");
         textViewC.setText(text);
@@ -108,8 +107,6 @@ public class MainActivity extends AppCompatActivity {
         saveInstanceState.putString(counterDataKey, text);
 
         super.onSaveInstanceState(saveInstanceState);
-
-        //saveInstanceState.putSerializable(counterDataKey, DataContainer.getInstance());
     }
 
     @Override
