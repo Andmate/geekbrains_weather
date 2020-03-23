@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="moscow">Москва</string>
+    <string name="pressure">Давление</string>
+    <string name="wind_speed">Скорость ветра</string>
+    <string name="_10_u00b0">+ 10 °</string>
+    <string name="date">дата</string>
+    <string name="temperature">Температура</string>
+    <string name="celsius">Цельсий</string>
+    <string name="fahrenheit">Фаренгейт</string>
+    <string name="enter_location">Введите местоположение</string>
+    <string name="mm">мм</string>
+    <string name="mbar">мбар</string>
+    <string name="m_s">м/с</string>
+    <string name="km_h">км/ч</string>
+    <string name="landscape">ландшафтный</string>
+    <string name="increase_counter">increase_counter</string>
+</resources>

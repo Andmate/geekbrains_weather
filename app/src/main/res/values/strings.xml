@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="moscow">Moscow</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="_10_u00b0">+ 10 °</string>
+    <string name="date">date</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="temperature">Temperature</string>
+    <string name="celsius">Celsius</string>
+    <string name="u00b0_c" translatable="false">° C</string>
+    <string name="u00b0_f" translatable="false" />
+    <string name="u00b0" translatable="false">°</string>
+    <string name="enter_location">Enter location</string>
+    <string name="mm">mm</string>
+    <string name="mbar" />
+    <string name="m_s">m/s</string>
+    <string name="km_h">km/h</string>
+    <string name="landscape">landscape</string>
+    <string name="increase_counter">increase_counter</string>
+</resources>
