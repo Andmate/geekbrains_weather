@@ -3,8 +3,6 @@
     <string name="celsius">Celsius</string>
     <string name="fahrenheit">Fahrenheit</string>
     <string name="temperature">Temperature</string>
-    <string name="u00b0_c">° C</string>
-    <string name="u00b0_f">° F </string>
     <string name="mbar" />
     <string name="m_s">m/s</string>
     <string name="landscape">landscape</string>
