@@ -5,7 +5,6 @@
     <string name="pressure">Давление</string>
     <string name="wind_speed">Скорость ветра</string>
     <string name="_10_u00b0">+ 10 °</string>
-    <string name="date">дата</string>
     <string name="temperature">Температура</string>
     <string name="celsius">Цельсий</string>
     <string name="fahrenheit">Фаренгейт</string>
